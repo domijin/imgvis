@@ -7,7 +7,7 @@ Visualization Demo on LSST DSFP S5D4
 
 
 ### Contour plot
-![png](imgvis-8_files/imgvis-8_10_1.png)
+![png](imgvis-8_files/imgvis-8_9_1.png)
 
 
 ### different band comparison
